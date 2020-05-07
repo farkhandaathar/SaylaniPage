@@ -1,0 +1,175 @@
+*{
+    font-family: sans-serif;
+}
+.first {
+    background-color: #000080;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-top: 5px;
+    flex-wrap: wrap;
+}
+
+.newslide
+{
+    background-color: #000080;
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height: 30px;
+}
+#p1 {
+    color:greenyellow;
+}
+#p2{
+    color:white;
+}
+.icon1{
+  
+    width: 20px;
+    height: 20px;  
+    color:black !important;
+}
+
+.para1 {
+   font-size: 20px;
+    color:white;
+}
+.button1 {   
+    cursor: pointer;
+    color: black;
+}
+.second {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.navbar {
+    padding: 20px;
+}
+.navbar a:hover
+{
+    background-color: #0275d8;
+    color: white;
+}   
+.heading
+{
+    text-align: center;
+    padding-top: 30px;
+}
+
+.mainp
+{
+    margin-top: 30px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.paragraph1 {
+    background-color: whitesmoke;
+    padding-top: 30px;
+    padding-bottom: 50px;
+    
+}
+.blueportion
+{
+    background-color: blue;
+    
+    
+}
+.blue {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    height:250px;
+    text-align: center;
+    flex-wrap: wrap;
+}
+.firstbox, .secondbox
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-top: 5px;
+    padding-right: 100px;
+    padding-left: 100px;
+    flex-wrap: wrap;
+    
+}
+.box {
+    cursor: pointer;
+    height: 200px;
+    width: 350px;
+    background-color: white;
+    text-align: center;
+    padding-top: 50px;
+    color: #316dc3;
+    font-size: 18px !important;
+    box-shadow: 0px 8px 20px 0px rgba(0, 0, 0, 0.16);
+
+}
+.upcoming
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-top: 50px;
+    color: #316dc3;
+    background-color: white;
+    flex-wrap: wrap;
+}
+.eventsprojects {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: white;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 50px;
+    flex-wrap: wrap;
+  
+}
+
+.boxm {
+    background-color: whitesmoke;
+    text-align: left;
+    border: 2px black;
+    width: 300px;
+    height: 70px;
+    margin: 20px;
+    text-transform: uppercase;
+    color: #316dc3;
+    font-size: 20px;
+    padding-top:20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+}
+.events
+{
+    text-align: left;
+}
+.paragraph2
+{
+    background-color: white;
+}
+.gallery {
+    margin-left: 100;
+    margin-right: 100;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 150px;
+}
+.foot
+{
+    background-color: #333333;
+    color:white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 30px;
+    flex-wrap: wrap;
+
+}
